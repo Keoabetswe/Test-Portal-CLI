@@ -1,0 +1,35 @@
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\C# Side Projects\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\C# Side Projects\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\C# Side Projects\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\C# Side Projects\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\C# Side Projects\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\C# Side Projects\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Backup (assignment 2)\8\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Backup (assignment 2)\8\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Backup (assignment 2)\8\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Backup (assignment 2)\8\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Backup (assignment 2)\8\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Backup (assignment 2)\8\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\bin\Debug\AddupMarks.dll
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\bin\Debug\AddupMarks.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\TestPortal\TestPortal\bin\Debug\leclogin.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\13019459_PROG_Assignment 2\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\13019459_PROG_Assignment 2\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\13019459_PROG_Assignment 2\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\bin\Debug\TestPortal.exe.config
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\bin\Debug\TestPortal.exe
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\bin\Debug\TestPortal.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\bin\Debug\AddupMarks.dll
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\bin\Debug\AddupMarks.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\bin\Debug\leclogin.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\obj\Debug\TestPortal.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\bin\Debug\Details.mdf
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 3\13019459_PROG_Assignment 3\TestPortal\TestPortal\bin\Debug\Details_log.ldf

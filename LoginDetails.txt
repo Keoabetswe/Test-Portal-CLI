@@ -1,0 +1,4 @@
+Lecturer Login: Password is 'Password1'
+
+Learner Login: Student Numbers - 13019459, 15019459 or 16019459 
+	       Password is 'Password1'

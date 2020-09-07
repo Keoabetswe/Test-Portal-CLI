@@ -1,0 +1,7 @@
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\AddupMarks\AddupMarks\bin\Debug\AddupMarks.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\AddupMarks\AddupMarks\obj\Debug\AddupMarksDLL.csprojResolveAssemblyReference.cache
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\AddupMarks\AddupMarks\obj\Debug\AddupMarks.dll
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\AddupMarks\AddupMarks\obj\Debug\AddupMarks.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\AddupMarksDLL\AddupMarks\bin\Debug\AddupMarks.pdb
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\AddupMarksDLL\AddupMarks\obj\Debug\AddupMarks.dll
+C:\Users\KeoNt\Documents\V.C\Year 2\PROG\Semester 2\Assignments\Assignment 2\Application\AddupMarksDLL\AddupMarks\obj\Debug\AddupMarks.pdb
