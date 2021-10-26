@@ -1,4 +1,7 @@
 # Test-Portal-CLI
+
+## 2nd Year, 2nd Semester PROG project: 
+
 CLI quiz application that allow with authentication for both learners and lectueres.
 Lecturers can sets tests and view student marks and details.
 Learners can take a test, view their marks and memo afterwards.
